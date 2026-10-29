@@ -9,15 +9,13 @@
 
 </div>
 
----
-
 I'm Sobert Li. I build tools that help people and AI agents work together — without giving up ownership of their data.
 
 Most of my time goes into **[Mebular](https://github.com/Windsander/Mebular)**, a distributed memory and task network for AI assistants.
 
-## Now
+<p><img src="assets/marker-01.svg" width="100%" alt=""></p>
 
-### Mebular
+## Now
 
 > One memory. Every assistant. Every device.
 
@@ -30,26 +28,45 @@ Memory and tasks stay on your devices and sync directly between them. Changes ar
 
 `TypeScript` · `Node.js` · `Electron` · `MCP`
 
-→ [Repository](https://github.com/Windsander/Mebular) · [Website](https://mebular.cyberfederal.io) · [Quickstart](https://github.com/Windsander/Mebular/blob/main/docs/getting-started/QUICKSTART.md)
+[Repository](https://github.com/Windsander/Mebular) · [Website](https://mebular.cyberfederal.io) · [Quickstart](https://github.com/Windsander/Mebular/blob/main/docs/getting-started/QUICKSTART.md)
+
+<p><img src="assets/marker-02.svg" width="100%" alt=""></p>
 
 ## Work
 
-| Project | What it is |
-| --- | --- |
-| **[Mebular](https://github.com/Windsander/Mebular)** | A distributed memory and task network for AI assistants — local-first, signed, directly synced, no hosted account. |
-| **[CodeKeeper](https://github.com/Windsander/CodeKeeper)** | A local-first desktop workbench for multi-project AI agent collaboration: code review, maintenance fixes, and knowledge archiving backed by long-term memory. |
-| **[ADI-Stable-Diffusion](https://github.com/Windsander/ADI-Stable-Diffusion)** | A universal C/C++ inference framework for Stable Diffusion, built on ONNX Runtime and running across platforms. |
-| **[Guideof-MultimediaArchitect](https://github.com/Windsander/Guideof-MultimediaArchitect)** | *Audio-Visual Development Technology: Principles and Practices* — a long-form guide to the craft. |
-| **[ScriptToolBox](https://github.com/Windsander/ScriptToolBox)** | Small scripts and utilities worth keeping around. |
+**[Mebular](https://github.com/Windsander/Mebular)**  
+A distributed memory and task network for AI assistants — local-first, signed, directly synced, no hosted account.
+
+**[CodeKeeper](https://github.com/Windsander/CodeKeeper)**  
+A local-first desktop workbench for multi-project AI agent collaboration: code review, maintenance fixes, and knowledge archiving backed by long-term memory.
+
+**[ADI-Stable-Diffusion](https://github.com/Windsander/ADI-Stable-Diffusion)**  
+A universal C/C++ inference framework for Stable Diffusion, built on ONNX Runtime and running across platforms.
+
+**[Guideof-MultimediaArchitect](https://github.com/Windsander/Guideof-MultimediaArchitect)**  
+*Audio-Visual Development Technology: Principles and Practices* — a long-form guide to the craft.
+
+**[ScriptToolBox](https://github.com/Windsander/ScriptToolBox)**  
+Small scripts and utilities worth keeping around.
+
+<p><img src="assets/marker-03.svg" width="100%" alt=""></p>
 
 ## Principles
 
-- **Local-first by default.** Tools should keep working when the cloud doesn't.
-- **Show the edge.** Every sync, signature, and change should be inspectable, not taken on faith.
-- **Your memory is yours.** What an assistant learns about you shouldn't require an account on someone else's server.
+**Local-first by default.** Tools should keep working when the cloud doesn't.
+
+**Show the edge.** Every sync, signature, and change should be inspectable, not taken on faith.
+
+**Your memory is yours.** What an assistant learns about you shouldn't require an account on someone else's server.
+
+<p><img src="assets/marker-04.svg" width="100%" alt=""></p>
 
 ## Contact
 
 - GitHub — [Sobert Li](https://github.com/Windsander)
 - Mebular — [mebular.cyberfederal.io](https://mebular.cyberfederal.io)
 - Questions, ideas, use cases — open an issue or a discussion in the relevant repository.
+
+<div align="center">
+  <img src="assets/seal-en.svg" width="56" height="56" alt="SL">
+</div>

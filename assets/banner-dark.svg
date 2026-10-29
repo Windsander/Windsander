@@ -2,7 +2,7 @@
   <rect width="1200" height="300" fill="#141210"/>
   <rect x="24.5" y="24.5" width="1151" height="251" fill="none" stroke="#3b342a" stroke-width="1"/>
 
-  <text x="66" y="86" font-family="-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="7" fill="#a1937f">SOBERT LI</text>
+  <text x="66" y="86" font-family="-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="7" fill="#a1937f">PERSONAL INTRODUCTION</text>
 
   <text x="62" y="178" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="82" fill="#f2ead9">Sobert Li</text>
 
@@ -12,7 +12,7 @@
 
   <g>
     <rect x="1016.5" y="64.5" width="79" height="79" fill="none" stroke="#e0895c" stroke-width="1.2" opacity="0.55"/>
-    <text x="1056" y="115" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="30" letter-spacing="1" fill="#e0895c">SL</text>
+    <text x="1055.5" y="114.0" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif" font-size="30" letter-spacing="1" fill="#e0895c">SL</text>
   </g>
 
   <text x="1096" y="186" text-anchor="end" font-family="-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="3.2" fill="#a1937f">LOCAL-FIRST</text>

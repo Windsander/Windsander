@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="李述博">
+  <rect width="1200" height="300" fill="#141210"/>
+  <rect x="24.5" y="24.5" width="1151" height="251" fill="none" stroke="#3b342a" stroke-width="1"/>
+
+  <text x="66" y="86" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="12" letter-spacing="7" fill="#a1937f">个 人 简 介</text>
+
+  <text x="62" y="182" font-family="'Songti SC','Noto Serif CJK SC','Source Han Serif SC',STSong,SimSun,serif" font-size="88" letter-spacing="8" fill="#f2ead9">李述博</text>
+
+  <line x1="66" y1="210" x2="588" y2="210" stroke="#e0895c" stroke-width="1.2" opacity="0.75"/>
+
+  <text x="66" y="246" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#a1937f">做让人和 AI 真正协作的开源软件。</text>
+
+  <g>
+    <rect x="1016.5" y="64.5" width="79" height="79" fill="none" stroke="#e0895c" stroke-width="1.2" opacity="0.55"/>
+    <text x="1055.5" y="115.4" text-anchor="middle" font-family="'Songti SC','Noto Serif CJK SC','Source Han Serif SC',STSong,SimSun,serif" font-size="34" letter-spacing="1" fill="#e0895c">李</text>
+  </g>
+
+  <text x="1096" y="186" text-anchor="end" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="10.5" letter-spacing="3" fill="#a1937f">本 地 优 先</text>
+  <text x="1096" y="210" text-anchor="end" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="10.5" letter-spacing="3" fill="#a1937f">签 名 与 审 计</text>
+  <text x="1096" y="234" text-anchor="end" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="10.5" letter-spacing="3" fill="#a1937f">开 放 接 口</text>
+</svg>
