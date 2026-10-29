@@ -37,9 +37,18 @@
 
   <g>
     <rect x="64" y="85" width="34" height="5" fill="#ff6422"/>
-    <text x="59" y="163" class="sans" font-size="70" font-weight="700" letter-spacing="4" fill="#f1f1ec">李述博</text>
-    <text x="64" y="197" class="mono" font-size="14" font-weight="600" letter-spacing="4.2" fill="#8d9397">SOBERT LI</text>
-    <text x="64" y="246" class="sans" font-size="18" font-weight="400" letter-spacing="1.2" fill="#f1f1ec">探索人与 AI 的交互方式</text>
+    <switch>
+      <g systemLanguage="zh">
+        <text x="59" y="163" class="sans" font-size="70" font-weight="700" letter-spacing="4" fill="#f1f1ec">李述博</text>
+        <text x="64" y="197" class="mono" font-size="14" font-weight="600" letter-spacing="4.2" fill="#8d9397">SOBERT LI</text>
+        <text x="64" y="246" class="sans" font-size="18" font-weight="400" letter-spacing="1.2" fill="#f1f1ec">探索人与 AI 的交互方式</text>
+      </g>
+      <g>
+        <text x="59" y="163" class="sans" font-size="64" font-weight="700" letter-spacing="1.5" fill="#f1f1ec">SOBERT LI</text>
+        <text x="64" y="197" class="sans" font-size="14" font-weight="600" letter-spacing="4.2" fill="#8d9397">李述博</text>
+        <text x="64" y="246" class="sans" font-size="18" font-weight="400" letter-spacing="0.4" fill="#f1f1ec">Exploring Human–AI Interaction</text>
+      </g>
+    </switch>
     <path d="M64 283H327" stroke="#4c5256" stroke-width="1"/>
     <path d="M64 283H116" stroke="#f1f1ec" stroke-width="2"/>
     <rect x="337" y="279" width="8" height="8" fill="#ff6422"/>
